@@ -4,13 +4,15 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org)
 [![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen.svg)](#performance)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Hugging Face](https://img.shields.io/badge/Demo-Hugging%20Face-yellow.svg)](https://huggingface.co/spaces)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Live%20Demo-Hugging%20Face-yellow.svg)](https://huggingface.co/spaces/Rahul7009/fake-news-detection)
 
 > **An end-to-end ML pipeline achieving 95% accuracy on 20K+ articles, with 70% latency reduction through model optimization. Deployed on GCP Cloud Run with auto-scaling.**
 
 ## Live Demo
 
-[Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces) *(Coming Soon)*
+🚀 **[Try the Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/Rahul7009/fake-news-detection)**
+
+Simply paste any news article or headline and get instant predictions with confidence scores!
 
 ![Fake News Detection Demo](images/demo.gif)
 
